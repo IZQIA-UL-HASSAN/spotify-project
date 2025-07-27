@@ -1,3 +1,4 @@
 # spotify-project
-repository containing code of a spotify clone that o made recently.
-authoe - izqia 
+This is my spotify clone that o made recently.
+<br>
+author - Izqia Ul Hassan
